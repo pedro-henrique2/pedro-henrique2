@@ -7,6 +7,7 @@
 
 
 ![Pedro Github stats](https://github-readme-stats.vercel.app/api?username=pedro-henrique2&show_icons=true&theme=synthwave)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique2&layout=compact&langs_count=7&theme=synthwave"/>
 
 ### • Tecnologias que eu uso no meu dia a dia:
 
@@ -19,3 +20,6 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
+
+
+![snake gif](https://github.com/pedro-henrique2/pedro-henrique2/blob/output/github-contribution-grid-snake.svg)
